@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "cdbfc6e2-c0a8-4278-8523-a21a14c727a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5fa06406-204f-428f-8436-0224f8e81a81",
+    "website": "chinese-calligraphy"
+  },
+  "course_title": "Chinese Calligraphy",
+  "hide_download": false,
+  "mit_learn_topics": [
+    [
+      "Art, Design & Architecture"
+    ],
+    [
+      "Humanities",
+      "Language"
+    ]
+  ],
+  "course_description": "Chinese calligraphy (\u4e66\u6cd5/\u66f8\u6cd5 sh\u016bf\u01ce)\u2014the art of expressive brush writing\u2014is one of the most esteemed and enduring artistic traditions in China. This introductory course invites students to explore calligraphy as both a classical discipline and a living art form that continues to evolve in contemporary contexts.\n\nThe course integrates technical training, historical and cultural study, and reflective practice. Students will not only gain hands-on experience with the brush and ink, but also investigate the evolving role of calligraphy in Chinese society, from antiquity to the present day. Through museum visits, interdisciplinary exploration, and individual projects, students will gain a deeper understanding of Chinese culture, philosophy, and aesthetic values. A final video project allows students to reflect on their personal journey with calligraphy and document their artistic growth.\n\nNo prior knowledge of the Chinese language is required.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.111",
+  "learning_resource_types": [
+    "Activity Assignments with Examples",
+    "Videos"
+  ],
+  "site_uid": "45433442-3c3f-40ff-85b8-c7588feb4d90",
+  "site_short_id": "21g.111-spring-2024",
+  "site_url_path": "courses/21g-111-chinese-calligraphy-spring-2024"
+}
