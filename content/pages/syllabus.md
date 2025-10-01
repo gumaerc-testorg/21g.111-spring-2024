@@ -68,7 +68,7 @@ Assigned readings will be available on the course website. Selected texts includ
 - Yen, Yueh-Ping (2005). Calligraphy and Power in Contemporary Chinese Society. Routledge, pp. 57–80. 
 - Ouyang, Zhongshi & Fong, Wen (2008). Chinese Calligraphy (The Culture and Civilization of China). Yale University Press.
 
-You are also encouraged to explore the course website: [https://calligraphy.mit.edu](https://calligraphy.mit.edu/), where past student works and projects are showcased.
+You are also encouraged to explore the course website: {{% resource_link "0740a7a1-9046-424f-a5be-c9a788e86e75" "https://calligraphy.mit.edu" %}}, where past student works and projects are showcased.
 
 ## Classroom Etiquette 
 

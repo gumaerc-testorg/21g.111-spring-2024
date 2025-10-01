@@ -21,9 +21,9 @@ The final video should be no more than six minutes in length. Submissions are sh
 ### Student Submission Sample 
 
 1. Brush Stand   
-    [https://drive.google.com/file/d/1UjtzB6D6CcE7APfr_W4WY2tUscBZZ9l9/view?usp=drive_link](https://drive.google.com/file/d/1UjtzB6D6CcE7APfr_W4WY2tUscBZZ9l9/view?usp=drive_link) 
+    {{% resource_link "957318ce-09c5-475c-9479-df7282ea0887" "https://drive.google.com/file/d/1UjtzB6D6CcE7APfr_W4WY2tUscBZZ9l9/view?usp=drive_link" %}} 
 2. Fashion & Calligraphy   
-    [https://drive.google.com/file/d/13zk0FrLS4ZA4xLEGbn1vMFf7Jx3mX9zy/view?usp=drive_link](https://drive.google.com/file/d/13zk0FrLS4ZA4xLEGbn1vMFf7Jx3mX9zy/view?usp=drive_link) 
+    {{% resource_link "7c9f51dc-63a8-4dbb-b51c-571fa279e432" "https://drive.google.com/file/d/13zk0FrLS4ZA4xLEGbn1vMFf7Jx3mX9zy/view?usp=drive_link" %}} 
 
 ## Project 2: Expressing the Self Through Script — Final Calligraphy Artwork 
 
