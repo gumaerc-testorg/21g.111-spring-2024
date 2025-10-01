@@ -23,7 +23,7 @@ Over the years, I’ve seen how even students with no background in Chinese art 
 
 ### Learning through Practice and Projects
 
-The course is rooted in project-based learning, encouraging students to learn by doing, observing, creating, and reflecting. Projects range from personal calligraphy pieces to interdisciplinary video explorations and conceptual works inspired by contemporary artists like [Xu Bing](https://en.wikipedia.org/wiki/Xu_Bing). These projects give students space to synthesize technique and meaning, while expressing their own voice within a traditional art form.
+The course is rooted in project-based learning, encouraging students to learn by doing, observing, creating, and reflecting. Projects range from personal calligraphy pieces to interdisciplinary video explorations and conceptual works inspired by contemporary artists like {{% resource_link "6d145c9e-dd22-4f6b-8576-1815c6867edc" "Xu Bing" %}}. These projects give students space to synthesize technique and meaning, while expressing their own voice within a traditional art form.
 
 ### Bridging Tradition and Innovation
 
@@ -43,7 +43,7 @@ No prior knowledge of Chinese language is required, as the course is taught in E
 
 ### Requirements Satisfied 
 
-21G.111 can be applied toward the [Humanities, Arts, and Social Sciences (HASS)](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement) portion of MIT's [General Institute Requirements (GIRs)](https://firstyear.mit.edu/academics-exploration/general-institute-requirements-girs/), specifically as a HASS-A (arts) course.
+21G.111 can be applied toward the {{% resource_link "1d0ce065-6ec6-46cf-b05a-c496572802d6" "Humanities, Arts, and Social Sciences (HASS)" %}} portion of MIT's {{% resource_link "8262dcc0-0f70-4e28-b354-9417481e1b4a" "General Institute Requirements (GIRs)" %}}, specifically as a HASS-A (arts) course.
 
 ### Offered 
 
