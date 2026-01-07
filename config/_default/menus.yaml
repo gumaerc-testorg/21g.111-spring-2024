@@ -1,0 +1,17 @@
+leftnav:
+- identifier: d1c20e16-096a-4c44-a60d-7787bee27de4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 25833f20-9ffb-43f4-8fb7-ce9b96155ec7
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 9340bb3f-692e-48a5-89ee-3939904cd146
+  name: Weekly Teaching Schedule
+  pageRef: /pages/weekly-teaching-schedule
+  weight: 30
+- identifier: ab119986-b011-409a-acb5-c4c5c4a585ef
+  name: 'Projects for Chinese Calligraphy: A Project-Based Approach'
+  pageRef: /pages/projects-for-chinese-calligraphy-a-project-based-approach
+  weight: 40
